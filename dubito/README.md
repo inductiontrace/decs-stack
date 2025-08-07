@@ -1,6 +1,8 @@
 # Dubito – the Doubter
-
 *First voice in the DECS‑stack*
+
+<img width="50%" alt="381ce056-62af-41e5-82a9-cbe8a2f1108c" src="https://github.com/user-attachments/assets/9c3dc156-842d-40f2-a8da-99a245828723" />
+
 
 Dubito watches every inbound event (chat, image, sensor, API callback, and most importantly, Ergo Coigo's "certainty" levels) and asks a single question:
 
