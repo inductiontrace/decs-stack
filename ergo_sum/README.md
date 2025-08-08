@@ -37,7 +37,7 @@ All envelopes conform to **MCP**.
 
 | ✓ Does | ✗ Doesn’t |
 | ------ | --------- |
-| Apply persona tone & safety filters. | Perform deep reasoning (that’s Cogito). |
+| Apply persona tone & safety (following intent) filters. | Perform deep reasoning (that’s Cogito). |
 | Decide between speaking, writing files, or triggering automations. | Route or fetch new context (that’s Dubito). |
 | Persist important facts via `memory.write`. | Handle low‑level tool errors; they loop back through Dubito. |
 
