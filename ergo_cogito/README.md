@@ -1,8 +1,9 @@
 # Ergo Cogito – the Thinker
-
 *Second voice in the DECS‑stack*
 
-Ergo Cogito receives events tagged by **Dubito**, loads only the context‑segment handles it needs, runs deep reasoning, and returns a complete answer package to **Ergo Sum**—but never speaks directly to the user.
+Ergo Cogito receives events tagged by **Dubito**, loads only the context‑segment handles it needs, runs deep reasoning, and returns a complete answer package to **Ergo Sum** - does not speak directly to the user.
+
+<img width="50%"  alt="14a0585c-a0ac-4663-a69a-c741f80d94c4" src="https://github.com/user-attachments/assets/b8a5c420-646e-4058-9c3e-6faaeae5a7bd" />
 
 ---
 
