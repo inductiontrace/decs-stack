@@ -4,7 +4,7 @@
 
 Ergo Sum receives the fully‑reasoned output from **Ergo Cogito**, aligns it with user goals and persona, and decides what concrete action—or final reply—should close the loop.
 
-<img width="1536" height="1024" alt="a652cfca-0c57-45a5-a832-5449c9ce483d" src="https://github.com/user-attachments/assets/427ed964-f255-4cd8-aa33-b4ee7d2ed737" />
+<img width="50%" alt="a652cfca-0c57-45a5-a832-5449c9ce483d" src="https://github.com/user-attachments/assets/427ed964-f255-4cd8-aa33-b4ee7d2ed737" />
 
 ---
 
